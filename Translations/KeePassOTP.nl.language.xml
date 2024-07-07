@@ -4,7 +4,7 @@
     Increment the TranslationVersion every time the translation file is updated
 	Also update the version.info file
   -->
-  <TranslationVersion>3</TranslationVersion>
+  <TranslationVersion>4</TranslationVersion>
   <item>
     <key>OTPCopyTrayNoEntries</key>
     <value>KPOTP - Geen items beschikbaar</value>
@@ -24,6 +24,10 @@
   <item>
     <key>OTPSetup</key>
     <value>OTP instellen...</value>
+  </item>
+<item>
+    <key>Other2FA</key>
+    <value>Andere 2FA ingesteld</value>
   </item>
   <item>
     <key>OTPCopy</key>
